@@ -1,0 +1,45 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.editor.enablePreview": false,
+  "search.quickOpen.includeSymbols": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.git": false
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "git.autofetch": true,
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "docker.contexts.label": "Name",
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "editor.formatOnSave": true,
+  // "emmet.excludeLanguages": {
+  //   "javascript":"javascriptreact",
+  //   "vue-html":"html",
+  //   "vue":"html"
+  // },
+  "files.autoSave": "afterDelay",
+  "editor.unicodeHighlight.includeStrings": false,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
